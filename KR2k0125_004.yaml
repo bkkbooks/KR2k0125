@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2k0125/krp/v1/juan/4
+seq: 4
+front:
+  text: 閩中海錯疏附録
+  hash: sha256:cd981bb09fd9a50a4ab02fec67fff896e2ed9e8c76e763b24f958fe55ad9111c
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0125_WYG_004-1a, image: WYG0590/WYG0590-0524a.png}
+body:
+  text: 按非地所産而有者咸附録之徵異品也後有見聞冀當聯絡屠本畯記出廣南亦名緑菜按海粉閩志云有物類墨魚者吐涎而成予往時聞閩人説即海參吐出絲也色有青黄不同者以海參食海中青藻故吐絲青食黄藻故吐絲黄閩中鄉先生陳大㕘文堂公云向時在廣南親見此物如竹蟶而殻薄以足裹鞋揣之則吐絲絲盡而此物空洞只存殻矣二説不同要之目睹者為真其味甚清可降痰火出廣南按燕窩相傳冬月燕子銜小魚入海島洞中壘窩明嵗春初燕棄窩去人往取之一説燕於冬月先銜鳥毛綢繆洞中次銜魚築室泥封户牖伏氣于中氣結而成明春飛去人以是得之圓如椰子須刀去毛劈片水洗淨可用閩部疏云燕窩菜竟不辨是何物漳海邊已有之葢海燕所築銜之飛渡海中翮力倦則擲置海面浮之若杯身坐其中久之復銜以飛多為海風吹泊山澳海人得之以貨大奇大奇海語載海鷰大如鳩春回巢於古巖危壁茸壘乃白海菜也島夷伺其秋去以脩竿執取而鬻之謂之海鷰窩隨舶至廣貴家宴品珍之其價翔矣畯據三説不同海語所載為近通待彼都近海人質之而後信也
+  hash: sha256:0e4bce9a1c19db5e40d190447fbb3687d29dceabbec4076d6dbba0630a50e4b1
+metadata:
+  title: 閩中海錯疏
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:46:30.729888'
+  juan_title: 附錄
+  source:
+    repository: kanripo
+    path: KR2k0125/KR2k0125_004.txt
+hash: sha256:19e21751e7f828a388df3d2eb1539d898d45b4a3f602fe3170b741b84161c95e

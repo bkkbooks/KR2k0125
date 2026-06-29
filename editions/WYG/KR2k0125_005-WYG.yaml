@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2k0125/WYG/v1/juan/5
+seq: 5
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 閩中海錯疏跋鹺丞本畯將入閩分陜使者曰狀海錯來吾徵閩越而通之丞入閩疏鱗介二百有奇以復且詶客問分陜使者今太常卿余公君房也丙申嵗嵩溪三層閣上題
+  hash: sha256:f1b49395d67f6e6e913c694abaf451f4b6eb97dc2c37fa2048f18498cc6335c5
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0125_WYG_005-1a, image: WYG0590/WYG0590-0525a.png}
+metadata:
+  title: 閩中海錯疏
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:46:30.729888'
+  juan_title: 跋
+  source:
+    repository: kanripo
+    path: KR2k0125/KR2k0125_005.txt
+hash: sha256:22d046da0e85865be48ab96bed8ef16f1c09f8500e741b52ab11e11e3adffc68
