@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 閩中海錯疏跋鹺丞本畯將入閩分陜使者曰狀海錯來吾徵閩越而通之丞入閩疏鱗介二百有奇以復且詶客問分陜使者今太常卿余公君房也丙申嵗嵩溪三層閣上題
-  hash: sha256:f1b49395d67f6e6e913c694abaf451f4b6eb97dc2c37fa2048f18498cc6335c5
+  text: 閩中海錯疏跋鹺丞本畯將入閩分陜使者曰狀海錯來吾徵閩越而通之丞入閩疏鱗介二百有奇以復且酬客問分陜使者今太常卿余公君房也丙申嵗嵩溪三層閣上題
+  hash: sha256:3b2e91042400e4eaf2ff0c031ece45b806ec8a0ac4d4b1c1dd403ed7818cba66
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2k0125_WYG_005-1a, image: WYG0590/WYG0590-0525a.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2k0125/KR2k0125_005.txt
-hash: sha256:257ac95b707d2e0ebe642437cf4956f2aaf2efed1ebbb8c6bd57afd19f485334
+hash: sha256:55f82b7343d47995e7c4346f983087ee04fd2be6d2914319184c8482f9b08a5f
